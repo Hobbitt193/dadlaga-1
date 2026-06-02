@@ -4,10 +4,10 @@ public class App {
 
         int a = sc.nextInt();
 
-        Cub cube = new Cub(a);
+        cub cube = new cub(a);
 
         System.out.println(cube.getVolume() + " " + cube.getSurfaceArea());
 
         sc.close();
-    }
+    }dayanaaaa mal sda 
 }

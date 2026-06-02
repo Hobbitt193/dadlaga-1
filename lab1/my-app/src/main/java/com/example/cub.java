@@ -1,8 +1,8 @@
 package com.example;
 
-public class cube {
+public class cub {
     private double side;
-    public cube(double s){
+    public cub(double s){
         this.side = s;
     }
 
